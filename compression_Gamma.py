@@ -1,12 +1,12 @@
 """
 File:          compressing_Gamma.py
 Author:        Rishabh Dalal
-Date:          2/03/2018
+Date:          02/03/2018
 Description:   Enoding and decoding postings of a retrieval system using
                Gamma byte encoding.
 
-Modified:      
-Change:        
+Modified:      03/03/2018 by Rishabh Dalal 
+Change:        Finished the gammaDecoding fucntion and debugged the whole
 
 """
 
